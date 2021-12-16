@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-16T16:41:45 IST" name="Default suite" finished-at="2021-12-16T16:41:45 IST" duration-ms="371">
+  <suite started-at="2021-12-16T17:40:19 IST" name="Default suite" finished-at="2021-12-16T17:40:20 IST" duration-ms="632">
     <groups>
     </groups>
-    <test started-at="2021-12-16T16:41:45 IST" name="Default test" finished-at="2021-12-16T16:41:45 IST" duration-ms="371">
-      <class name="ChromeTwo.ExtentTwo">
-        <test-method signature="logintest()[pri:0, instance:ChromeTwo.ExtentTwo@15eb5ee5]" started-at="2021-12-16T16:41:45 IST" name="logintest" finished-at="2021-12-16T16:41:45 IST" duration-ms="335" status="PASS">
+    <test started-at="2021-12-16T17:40:19 IST" name="Default test" finished-at="2021-12-16T17:40:20 IST" duration-ms="632">
+      <class name="ChromeTwo.ExtentThree">
+        <test-method signature="logintest()[pri:0, instance:ChromeTwo.ExtentThree@15eb5ee5]" started-at="2021-12-16T17:40:19 IST" name="logintest" finished-at="2021-12-16T17:40:20 IST" duration-ms="570" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintest -->
-      </class> <!-- ChromeTwo.ExtentTwo -->
+      </class> <!-- ChromeTwo.ExtentThree -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
